@@ -1,0 +1,9 @@
+{
+  "finest_model_names": [
+    "UWasher-340-epochs-EvalAcc-77.79.pth",
+    "UWasher-290-epochs-EvalAcc-77.38.pth",
+    "UWasher-250-epochs-EvalAcc-75.67.pth",
+    "UWasher-490-epochs-EvalAcc-76.52.pth",
+    "UWasher-200-epochs-EvalAcc-77.89.pth"
+  ]
+}

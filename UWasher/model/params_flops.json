@@ -1,0 +1,26 @@
+{
+  "parameters(M)": {
+    "mobilenetv3_small": 3.056,
+    "resnet1d_18": 3.851,
+    "unet": 0.051114,
+    "unet_ts": 0.104,
+    "unet_ts_se": 0.104,
+    "unet_ts_ppm_se": 0.099482
+  },
+  "flops(M)": {
+    "mobilenetv3_small": 4.743,
+    "resnet1d_18": 11.078,
+    "unet": 0.665,
+    "unet_ts": 1.4195,
+    "unet_ts_se": 1.4195,
+    "unet_ts_ppm_se": 1.3475
+  },
+  "size(MB)": {
+    "mobilenetv3_small": 11.92,
+    "resnet1d_18": 14.77,
+    "unet": 0.2412,
+    "unet_ts": 0.4854,
+    "unet_ts_se": 0.4883,
+    "unet_ts_ppm_se": 0.4844
+  }
+}
