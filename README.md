@@ -1,7 +1,7 @@
 # UWash 👋
 
 <p align="center">
-  <img src="img/README_img/overview.png" alt="image-20240719171906628" width="600px"/>
+  <img src="./overview.png" alt="image-20240719171906628" width="600px"/>
 </p>
 
 **UWash** is a smartwatch-based handwashing assessment appraoch. UWash can score the handwashing quality for the purpose of guiding users to improve their handwashing techniques. UWash aims to raise users' awareness and cultivating habits of high-quality handwashing
