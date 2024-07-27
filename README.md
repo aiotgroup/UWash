@@ -50,7 +50,7 @@ all train and test strategy is in ./UWasher/train_eval
   * eval-script: li_eval_64.py
 * user-independent:
   * train-script: ui_64.py
-  * eval-script: ui_64.py
+  * eval-script: ui_eval_64.py
 
 
 
