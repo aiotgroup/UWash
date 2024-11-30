@@ -17,7 +17,7 @@ Raw Dataset(including hand-washing video):
 
 Preprocessed Dataset(time-series data point and corresponding label):
 
-**(Dataset is uploading, late days ref-link will be put on)**
+[**Dataset_raw.zip**](https://drive.google.com/file/d/1ZRdRiwXp4xbFUWIIjIQ0OEK6gK0cwODN/view?usp=sharing)
 
 ## Setup & Running 🛠️
 Follow these steps to set up and run:
