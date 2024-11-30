@@ -13,7 +13,7 @@ Handwashing Assessment with Smartwatches"**](http://arxiv.org/abs/2112.06657)
 
 The dataset used for UWash is essential for training and evaluating the detection models. It includes both the raw and preprocessed data.
 
-Raw Dataset(including hand-washing video): [**Dataset_raw.zip**](https://drive.google.com/file/d/1ZRdRiwXp4xbFUWIIjIQ0OEK6gK0cwODN/view?usp=sharing)
+Raw Dataset: [**Dataset_raw.zip**](https://drive.google.com/file/d/1ZRdRiwXp4xbFUWIIjIQ0OEK6gK0cwODN/view?usp=sharing)
 
 ## Setup & Running 🛠️
 Follow these steps to set up and run:
