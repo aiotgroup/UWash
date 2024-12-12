@@ -96,7 +96,7 @@ if __name__ == "__main__":
 
     loader = DataLoader(dataset=dataset, batch_size=1024, shuffle=False)
 
-    model_path = os.path.join("/home/wuxilei/code/WatchDataProcess/UWasher/train_eval/checkpoint/normal-0-64/UWasher-470-epochs-TrainAcc-99.47-EvalAcc-87.18.pth")
+    model_path = os.path.join("/home/wuxilei/code/WatchDataProcess/UWasher/train_eval/checkpoint/normal-0-64/UWasher-TrainAcc-99.47-EvalAcc-87.18.pth")
 
     model = UWasher()
     model.load_state_dict(torch.load(model_path))
